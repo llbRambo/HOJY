@@ -1,5 +1,5 @@
-#!/user/bin/python
-# -*- coding: cp936 -*-
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
 
 import sys
 import json
